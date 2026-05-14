@@ -1,7 +1,8 @@
 # Portfolio Site
 
 <p align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) alt="Typescript">
+  
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
@@ -9,6 +10,8 @@
 A desktop-inspired portfolio website built with Next.js and TypeScript.
 
 It recreates a desktop operating system experience through draggable windows, terminal-style interactions, and modular app-like sections to showcase projects and technical skills in an interactive format.
+
+Hosted at: https://bloopotato.vercel.app/
 
 ---
 
